@@ -8,7 +8,7 @@ I have splitted this into two phases such as __Phase-1__ and  __Phase-2__
 
 - [x] __Phase-1__ completed
 
-- [ ] __Phase-2__ Yet to Implement
+- [ ] __Phase-2__ In-Progress
 
 * Phase-1 :
 
