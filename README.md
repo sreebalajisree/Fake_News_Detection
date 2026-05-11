@@ -8,7 +8,7 @@ I have splitted this into two phases such as __Phase-1__ and  __Phase-2__
 
 - [x] __Phase-1__ Completed
 
-- [ ] __Phase-2__ Completed
+- [x] __Phase-2__ Completed
 
 * Phase-1 :
 
